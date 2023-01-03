@@ -1,9 +1,9 @@
-# Lending-Club-Case-Study
+## Lending-Club-Case-Study
 ```
 To detect risky applicants who have applied for loan
 ```
 
-## Purpose of analysis
+### Purpose of analysis
 ``` This analysis is for lending companies. It will be helpful to catch risky/default applicants which are major reason of financial loss. These borrowers refuse to pay or runs away with the money owed.
 
 The dataset which we have contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
@@ -12,12 +12,12 @@ The company wants to understand the driving factors behind loan default, i.e. th
 
 ```
 
-## Technologies Used
+### Technologies Used
 - pandas
 - matplotlib
 - seaborn
 
-## Footsteps
+### Footsteps
 - Analysis of data quality issue
 - Data preprocessing
 - Data manipulation
@@ -27,10 +27,10 @@ The company wants to understand the driving factors behind loan default, i.e. th
 - Bivariate analysis
 - Recommendation
 
-## Acknowledgements
+### Acknowledgements
 ##### This analysis is part of the Exloratory Data Analysis which is one of the learning required module for Executive Post Graduate Programme in ML and AI from IIIT Bangalore.
 
-## Contact
+### Contact
 Created by [https://github.com/Jitendar1991] and [https://github.com/sachinpy007] - feel free to contact us!
 
 
