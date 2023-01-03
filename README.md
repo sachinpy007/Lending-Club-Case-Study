@@ -9,7 +9,7 @@ This analysis is for lending companies. It will be helpful to catch risky/defaul
 These borrowers refuse to pay or runs away with the money owed.
 
 The dataset which we have contains information about past loan applicants and whether they ‘defaulted’ or not. 
-The aim is to identify patterns which indicate if a person is likely to default, 
+The aim is to identify patterns which indicate if a borrower is likely to default, 
 which may be used for taking actions such as denying the loan, reducing the amount of loan, 
 lending (to risky applicants) at a higher interest rate, etc.
 
