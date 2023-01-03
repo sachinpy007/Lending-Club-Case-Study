@@ -33,7 +33,7 @@ The company can utilise this knowledge for its portfolio and risk assessment
 - Recommendation
 
 ### Acknowledgements
-##### This analysis is part of the Exloratory Data Analysis which is one of the learning required module for Executive Post Graduate Programme in ML and AI from IIIT Bangalore.
+##### This analysis is part of the Exloratory Data Analysis which is one of the required learning module of Executive Post Graduate Programme in ML & AI from IIIT Bangalore.
 
 ### Contact
 Created by [https://github.com/Jitendar1991] and [https://github.com/sachinpy007] - feel free to contact us!
