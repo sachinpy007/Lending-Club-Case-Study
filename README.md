@@ -18,7 +18,7 @@ The company can utilise this knowledge for its portfolio and risk assessment
 
 ```
 
-### Technologies Used
+### Libraries Used
 - pandas
 - matplotlib
 - seaborn
