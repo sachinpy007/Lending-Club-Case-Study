@@ -4,7 +4,8 @@ To detect risky applicants who have applied for loan
 ```
 
 ### Purpose of analysis
-``` This analysis is for lending companies. It will be helpful to catch risky/default applicants which are major reason of financial loss. 
+``` 
+This analysis is for lending companies. It will be helpful to catch risky/default applicants which are major reason of financial loss. 
 These borrowers refuse to pay or runs away with the money owed.
 
 The dataset which we have contains information about past loan applicants and whether they ‘defaulted’ or not. 
